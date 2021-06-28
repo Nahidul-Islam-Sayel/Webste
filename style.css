@@ -1,0 +1,44 @@
+
+
+
+
+.navbar{
+    border-bottom: 1px solid #008ed6;
+    opacity: 0.8;
+}
+body{
+    background-color: #333;
+    color:#fff;
+}
+.form-group{
+    padding: 4px 4px ;
+    opacity: 0.8;
+}
+.home-section{
+    background-image: url(https://images.pexels.com/photos/9746/people-mother-family-father.jpg?cs=srgb&dl=pexels-creative-vix-9746.jpg&fm=jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+.home-overlap{
+    background-color: rgba(0,0,0,0.7);
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    min-height: 700px;
+}
+.home-inner{
+    padding-top: 150px;
+}
+.fa{
+    color: #008ed6;
+    background-color: #fff;
+    padding: 4px;
+    border-radius: 5px;
+    font-size: 30;
+}
+.x img{
+    padding-right: 10%;
+}
+
